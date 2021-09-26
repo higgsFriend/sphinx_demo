@@ -14,9 +14,3 @@ MERNStack documentation
    create_github_webpage_howto
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
